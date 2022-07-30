@@ -2,12 +2,15 @@
   "name": "fcc-learn-npm-package-json",
   "author": "akp",
   "description": "freeCodeCamp - Back End Development and APIs project",
+  "license": "MIT",
+  "version": "1.0.0",
   "keywords": [
     "freecodecamp",
     "tutorial"
   ],
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "^2.14.0"
   },
   "main": "server.js",
   "scripts": {
